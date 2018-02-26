@@ -2,7 +2,7 @@
 
 
 ## Welcome to kobocoinj
-The kobocoinj library is a Java implementation of the Kobocoin protocol, which allows it to maintain a wallet and send/receive transactions without needing a local copy of Kobocoin Core.
+The kobocoinj library is a Java implementation of the Kobocoin protocol, which allows it to maintain a wallet and send/receive transactions without needing a local copy of Kobocoin core.
 
 ### Technologies
 + Java 7 for the core modules, Java 8 for everything else
